@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[scubanews]]></title>
+        <description><![CDATA[scubanews]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Apr 2016 18:01:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c93100b-c1fa-4eaf-9f2f-b20bef89f23d.jpg">]]></description>
+            <link>undefineda6e8d4e4-65de-441f-befe-886aebb173fd/index.html</link>
+            <guid isPermaLink="false">a6e8d4e4-65de-441f-befe-886aebb173fd</guid>
+            <pubDate>Thu, 14 Apr 2016 18:01:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
