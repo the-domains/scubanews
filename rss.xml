@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[scubanews]]></title>
         <description><![CDATA[scubanews]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/scubanews/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 18:01:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Apr 2016 18:01:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/scubanews/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c93100b-c1fa-4eaf-9f2f-b20bef89f23d.jpg">]]></description>
-            <link>undefineda6e8d4e4-65de-441f-befe-886aebb173fd/index.html</link>
+            <link>https://thegrid.ai/scubanews/a6e8d4e4-65de-441f-befe-886aebb173fd/index.html</link>
             <guid isPermaLink="false">a6e8d4e4-65de-441f-befe-886aebb173fd</guid>
-            <pubDate>Thu, 14 Apr 2016 18:01:19 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2016 18:01:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
